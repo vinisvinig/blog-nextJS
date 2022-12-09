@@ -17,6 +17,6 @@ social:
 
 Sou Desenvolvedor/Programador/UX/UI/SEO e estágiario do momento 😎.
 
-Em buscar de alguém para produzir conteúdo textual. Enquanto isso me viro nos 30, como ja dizia meu grande amigo Faustão.
+Em busca de alguém para produzir conteúdo textual. Enquanto isso...
 
 Estudando atuais tecnologias do momento, dentre elas o ReactJS, NodeJS e o mais novo NextJS e como diz meu amigo Fausto \"Quem sabe faz ao vivo\".
