@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Vinízera dos Next | Blog",
+    "title": "UXs da GSD | Blog",
     "base_url": "/",
     "favicon": "/images/logo-v.png",
     "logo": "/images/logo.gif",
@@ -21,8 +21,8 @@
   },
 
   "metadata": {
-    "meta_author": "Vinízera",
+    "meta_author": "Vinícius Souza Girardi",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Bem-vindo ao nosso novo blog, focado em novos redatores, escritores, criadores de conteúdo. Onde profissionais estão abertos para divulgar seu trabalho, desde artigos, conteúdos ou até mesmo uma receita, tudo isso de forma gratuita."
+    "meta_description": "Bem-vindo ao nosso novo blog, onde profissionais estão abertos para divulgar seu trabalho, desde artigos, conteúdos ou até mesmo uma receita de bolo. Tudo isso de forma gratuita."
   }
 }
