@@ -1,9 +1,5 @@
 👉🏻[View Live Preview](https://bookworm-light-nextjs.vercel.app/](https://vercel.com/vinisvinig/blog-nextjs-vinizera)
 
-<!-- download -->
-## Download
-
-Download this template from [Github](https://github.com/themefisher/bookworm-light-nextjs/archive/main.zip)
 
 <!-- installation -->
 ## Installation
