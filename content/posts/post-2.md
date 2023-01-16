@@ -1,22 +1,51 @@
 ---
-title: Post 2
+title: Como criar uma postagem arrasadora?
 description: "meta description"
-date: 2022-04-04T05:00:00Z
+date: 2023-01-14T03:18:00
 image: "/images/posts/02.jpg"
-categories: ["development"]
-authors: ["John Doe"]
-tags: ["diy", "toy"]
+categories: ["blog"]
+authors: ["Vinícius Souza Girardi"]
+tags: ["iniciante", "começando", "meu primeiro post"]
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Dicas de utilização para realização de posts.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+## Conteúdo necessário
 
-## Creative Design
+0. Imagem (Preferencialmente no formato .WebP)
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+1. "Título"
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+2. "Descrição (SEO)"
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+3. "Tags relacionadas (Categorias do blog)"
+
+4. "Autores"
+
+5. "Conteúdo"
+
+6. Para definir os **títulos** principais, secundários, terciários use "**#**" máximo até seis (**"######"**).
+*O título do post é equivalente ao título principal ("**#**").
+
+#### Para utilizar dentro do documento:
+
+- Para utilizar "•" use "**-**" no documento
+
+- Para utilizar tópicos de números use "**1.**", "**2.**", "**3.**"...
+
+- Para utilizar links use "**(meulink.com)**", também é possível escolher a palavra/frase do link usando "**[Palavra]**"
+
+> Exemplo [Clique aqui](https://www.google.com "Ao clicar redirecionará para Google")
+
+- Para mencionar utilizar a menção use ">"
+
+- Para utilizar **negrito** use "**" no início e fim do conteúdo
+
+- Para utilizar _itálico_ use "_" no início e fim do conteúdo
+
+- Para  utilizar ~~texto riscado~~ use "~~" no início e dim do conteúdo
+
+- Também é possível utilizar tabelas, mas vamos deixar isso para uma "__**MVP2**__" :D
+
+> Eu vou enlouquecer. Calma, não é necessário utilizar todos comandos citados. Utilizando apenas o conteúdo necessário já basta para publicar seu post 😉.

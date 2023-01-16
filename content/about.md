@@ -1,5 +1,5 @@
 ---
-title: "Vinízera dos NextJS"
+title: "UX's Designer da GSD"
 meta_title: "Sobre"
 image: "/images/author.jpg"
 layout: "about"
@@ -11,12 +11,12 @@ social:
   twitter: "https://www.twitter.com"
   instagram: "https://www.instagram.com/vinisvinig/"
 
-  #Colocar o linkedin e talvez o site <<_______________________________#
+  #Colocar o edin e talvez o site <<_______________________________#
   #La no JSON theme --> Definir quando passar de certo horario mudar as cores, talvez um if, se for das 19:00 às 04:30 ficar em cores noturnas.
 ---
 
-Sou Desenvolvedor/Programador/UX/UI/SEO e estágiario do momento 😎.
+Equipe de pessoas criativas e destaques do momento 😎.
 
-Em busca de alguém para produzir conteúdo textual. Enquanto isso...
+Em busca de alguém para produzir conteúdo textual. Enquanto isso... 
 
-Estudando atuais tecnologias do momento, dentre elas o ReactJS, NodeJS e o mais novo NextJS e como diz meu amigo Fausto \"Quem sabe faz ao vivo\".
+\"Quem sabe faz ao vivo\".

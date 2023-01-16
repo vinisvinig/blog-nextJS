@@ -1,6 +1,6 @@
 ---
 title: "Privacy"
-description: "this is meta description"
+description: "Política de privacidade Blog UXs da GSD"
 draft: false
 ---
 

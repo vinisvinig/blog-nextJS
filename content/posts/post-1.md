@@ -20,3 +20,14 @@ Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu
 > Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+
+
+1. "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!"
+
+- "Tenho que mudar a cor dessa bolinha, nem da pra ver".
+
+- "Tenho que descobrir a fonte que vai ser usada :P".
+
+- "Tenho que criar um padrão para vídeos do YT".
+
+(https://www.google.com) porfavor, coloque os links dentro de parenteses.
