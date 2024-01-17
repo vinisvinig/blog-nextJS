@@ -1,4 +1,4 @@
-👉🏻[View Live Preview]()
+👉🏻[View Live Preview](https://blog-ux.vercel.app)
 
 <!-- installation -->
 ## Installation
