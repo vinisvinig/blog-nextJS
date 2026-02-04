@@ -8,6 +8,7 @@ const Document = () => {
   return (
     <Html lang="pt-br">
       <Head>
+        <meta name="robots" content="index, follow" />
         {/* favicon */}
         <link rel="shortcut icon" href={favicon} />
         {/* theme meta */}

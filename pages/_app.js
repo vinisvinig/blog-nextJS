@@ -13,14 +13,7 @@ const App = ({ Component, pageProps }) => {
   // import google font css
   const pf = theme.fonts.font_family.primary;
   const sf = theme.fonts.font_family.secondary;
-  const [fontcss, setFontcss] = useState();
-  useEffect(() => {
-    fetch(
-      `https://fonts.googleapis.com/css2?family=${pf}${
-        sf ? "&family=" + sf : ""
-      }&display=swap`
-    ).then((res) => res.text().then((css) => setFontcss(css)));
-  }, [pf, sf]);
+  const fontUrl = `https://fonts.googleapis.com/css2?family=${pf}${sf ? "&family=" + sf : ""}&display=swap`;
 
   // google tag manager (gtm)
   const tagManagerArgs = {
@@ -42,11 +35,7 @@ const App = ({ Component, pageProps }) => {
           href="https://fonts.gstatic.com"
           crossOrigin="true"
         />
-        <style
-          dangerouslySetInnerHTML={{
-            __html: `${fontcss}`,
-          }}
-        />
+        <link rel="stylesheet" href={fontUrl} />
         {/* responsive meta */}
         <meta
           name="viewport"

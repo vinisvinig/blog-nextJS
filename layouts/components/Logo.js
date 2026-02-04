@@ -18,8 +18,8 @@ const Logo = () => {
       >
         {logo ? (
           <Image
-            width={logo_width.replace("px", "") * 2}
-            height={logo_height.replace("px", "") * 2}
+            width={logo_width.replace("px", "")}
+            height={logo_height.replace("px", "")}
             src={logo}
             alt={title}
             priority
