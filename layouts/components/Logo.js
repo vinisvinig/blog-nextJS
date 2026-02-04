@@ -3,23 +3,20 @@ import Image from "next/image";
 import Link from "next/link";
 
 const Logo = () => {
-  // destructuring items from config object
-  const { base_url, logo, logo_width, logo_height, logo_text, title } =
-    config.site;
+  const { base_url, logo, title } = config.site;
 
-    return (
+  return (
     <Link href={base_url} passHref>
-      <a className="navbar-brand block">
+      <a className="navbar-brand block" style={{ width: "34px", height: "34px" }}>
         {logo ? (
           <Image
-            width={logo_width.replace("px", "")}
-            height={logo_height.replace("px", "")}
+            width={34}
+            height={34}
             src={logo}
             alt={title}
             priority
+            layout="fixed"
           />
-        ) : logo_text ? (
-          logo_text
         ) : (
           title
         )}
